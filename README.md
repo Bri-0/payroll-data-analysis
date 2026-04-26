@@ -24,9 +24,12 @@ Analyze payroll data to understand salary distribution, department costs, and ke
 2. (to be added) Total Salary Cost by Department  
 3. (to be added) Impact of Experience on Salary  
 
-## Key Insight
-The IT department has the highest average salary, indicating higher demand for technical skills and specialized roles.
+## Key Insights
 
+- The IT department has the highest average salary (~8200), significantly above HR and Finance.
+- This suggests higher demand for specialized technical skills and potentially more senior roles.
+- Salary variation across departments indicates different cost structures and hiring strategies.
+  
 ## Tools Used
 - SQL (SSMS)  
 - Git & GitHub  
